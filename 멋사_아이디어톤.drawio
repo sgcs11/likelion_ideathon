@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T05:15:07.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9gaDBpQZjt1U437kobLH" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T05:17:41.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="65kSP7eDWoO3FMGY34uc" version="20.2.0" type="github">
   <diagram id="Z-c2q8e5kLSPET983axV" name="페이지-1">
     <mxGraphModel dx="2653" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="4dobk5z7qQ-hC0CsfyiK-14" value="&lt;b&gt;CI/CD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="4dobk5z7qQ-hC0CsfyiK-41">
           <mxGeometry x="777.5" y="514.25" width="42.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4dobk5z7qQ-hC0CsfyiK-15" value="Slack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4dobk5z7qQ-hC0CsfyiK-41">
+        <mxCell id="4dobk5z7qQ-hC0CsfyiK-15" value="intellij" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4dobk5z7qQ-hC0CsfyiK-41">
           <mxGeometry x="25" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4dobk5z7qQ-hC0CsfyiK-17" value="&lt;b&gt;브라우저&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4dobk5z7qQ-hC0CsfyiK-41">
